@@ -1,0 +1,14 @@
+{
+  "name": "紫微命盘",
+  "short_name": "紫微命盘",
+  "description": "倪海厦正宗紫微斗数排盘与白话解读，离线可用",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#16112b",
+  "theme_color": "#b8922a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
